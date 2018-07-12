@@ -1,0 +1,8 @@
+https://storage.googleapis.com/quickdraw_dataset/full/numpy_bitmap/drums.npy
+https://storage.googleapis.com/quickdraw_dataset/full/numpy_bitmap/spider.npy
+https://storage.googleapis.com/quickdraw_dataset/full/numpy_bitmap/flowers.npy
+https://storage.googleapis.com/quickdraw_dataset/full/numpy_bitmap/clock.npy
+https://storage.googleapis.com/quickdraw_dataset/full/numpy_bitmap/airplane.npy
+https://storage.googleapis.com/quickdraw_dataset/full/numpy_bitmap/face.npy
+https://storage.googleapis.com/quickdraw_dataset/full/numpy_bitmap/sun.npy
+https://storage.googleapis.com/quickdraw_dataset/full/numpy_bitmap/bicycle.npy
